@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Fanioz',
+  title: 'Tricks of things',
   author: 'fanioz',
   email: 'fanio.zilla@gmail.com',
-  link: 'https://fanioz.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://www.tricks.my.id/',
+  description: 'a Compilation of tips and tricks.',
   lang: 'id-ID', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
